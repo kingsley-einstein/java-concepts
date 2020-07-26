@@ -12,6 +12,5 @@ This project is aimed at me relearning possibly forgotten or not yet leveraged c
 ```
 
 |Concept | Description | Things Done |
---------------------------------------
+|---------|-------------|-------------
 |Annotation    | Decorators that add code metadata        | null |
----------------------------------------------------------------
